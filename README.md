@@ -1,3 +1,3 @@
 # ParkIn
 Learnt Javascript by Scrimba
-Learnt ReactNative To Do List 
+Learnt ReactNative To do List 
